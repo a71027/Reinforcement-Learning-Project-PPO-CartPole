@@ -19,7 +19,10 @@ learning performance.
 
 ## Baseline (Paper Reproduction)
 
-- clip ε = 0.2 - λ = 0.95 - seeds = 0, 42, 999 - Environment: CartPole-v1 
+- clip ε = 0.2 
+- λ = 0.95 
+- seeds = 0, 42, 999 
+- Environment: CartPole-v1 
 
 
 ## Extended Experiment (Not in the Paper)
@@ -89,5 +92,6 @@ Reinfrocement Learning_Project/ ├── train.py ├── ppo.py ├── pl
 
 
 ## Author 
+
 
 a71027/문정인
